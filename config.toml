@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.fr.params]
       introTitle = "Grand gagnant : Volodia Gromykhov"
       introSubtitle = "Les votes ont été très serré, les jurys ayant donné les mêmes notes aux trois premières photos. Un dernier classement du top 3 a dû être fait, voici le gagnant ! Félicitation à lui !"
-      introPhoto = "/photos/19_[VG].jpg"
+      introPhoto = "photos/19_[VG].jpg"
       logo = "logo-bda.png"
     [[languages.fr.menu.main]]
         name = "Résultat concours photo"
