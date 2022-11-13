@@ -1,1 +1,0 @@
-# Page-concours-photo-BDA
