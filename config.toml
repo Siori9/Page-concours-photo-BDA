@@ -17,7 +17,7 @@ DefaultContentLanguageInSubdir = true
       logo = "/logo-bda.png"
     [[languages.fr.menu.main]]
         name = "Résultat concours photo"
-        url = "/blog"
+        url = "blog"
         weight = 1
 
 [params]
@@ -25,7 +25,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Custom copyright - optional
   copyright = "BDA 2022 - Divag · Concours photo Novembre"
